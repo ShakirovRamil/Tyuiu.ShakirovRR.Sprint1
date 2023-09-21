@@ -17,10 +17,10 @@ namespace Tyuiu.ShakirovRR.Sprint1.Task0.V8
             Console.Title = "Спринт #0 | Выполнил Шакиров Р. Р. | ИСТНб-23-1";
             //Длинна строки 75 символов
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт #0                                                               *");
+            Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Создания итогового решения по спринту                             *");
-            Console.WriteLine("* Задание #7                                                              *");
-            Console.WriteLine("*Вариант #0                                                               *");
+            Console.WriteLine("* Задание #0                                                              *");
+            Console.WriteLine("*Вариант #8                                                               *");
             Console.WriteLine("*выполнил: Шакиров Рамиль Русланович | ИСТНб-23-1                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("*УСЛОВИЕ:                                                                 *");
